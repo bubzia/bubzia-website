@@ -1,6 +1,6 @@
 # Introduction
 
-Access: https://pgarus97.github.io/bubzia-website
+Access: https://bubzia.github.io/bubzia-website
 
 This is the website of www.twitch.tv/Bubzia, including all my speedruns, marathon runs, information etc.
 
